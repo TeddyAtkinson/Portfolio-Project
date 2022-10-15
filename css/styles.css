@@ -1,0 +1,33 @@
+.info_Block2{
+  background-color: rgb(174, 214, 250);
+  text-align: left;
+  width: 50%;
+  padding: 10px;
+  border: solid rgb(255, 255, 255);
+  border-width: 10px;
+  margin: 10px;
+}
+
+.info_Block1{
+  background-color: rgb(238, 243, 248);
+  text-align: left;
+  width: auto;
+  padding: 10px;
+  border: solid rgb(255, 255, 255);
+  border-width: 10px;
+  margin: 10px;
+}
+
+.bold{
+  font-style: bold;
+}
+
+img{
+  display: block;
+  max-width: 40%;
+  max-height: 300px;
+}
+
+body{
+  margin-left: 3%;
+}
